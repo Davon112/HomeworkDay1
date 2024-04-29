@@ -33,7 +33,8 @@ MAX_LIMIT = 1000
 peanut_butter = 8.32
 eggs = 9.33
 steak = 15.11
-Total_Cost = print(peanut_butter+eggs+steak)
+total_cost = print(peanut_butter+eggs+steak) 
+
 
 # Question 3 Task 2
 
